@@ -34,8 +34,8 @@ The `weather` {% term entity %} can provide the conditions listed below as its s
 - **Fog**: There is a thick mist or fog reducing visibility.
 - **Hail**: Hailstones are falling.
 - **Lightning**: Lightning/thunderstorms are occurring.
-- **Lightning-rainy**: Lightning/thunderstorm is occurring along with rain.
-- **Partlycloudy**: The sky is partially covered with clouds.
+- **Lightning, rainy**: Lightning/thunderstorm is occurring along with rain.
+- **Partly cloudy**: The sky is partially covered with clouds.
 - **Pouring**: It is raining heavily.
 - **Rainy**: It is raining.
 - **Snowy**: It is snowing.
